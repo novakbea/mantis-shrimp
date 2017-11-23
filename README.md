@@ -1,2 +1,0 @@
-# mantis-shrimp
-Mantis shrimp
